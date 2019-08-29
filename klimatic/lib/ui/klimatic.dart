@@ -26,7 +26,7 @@ class _KlimaticState extends State<Klimatic> {
        _cityEntered = results['enter'];
 
 //      debugPrint("From First screen" + results['enter'].toString());
-
+//
 
     }
   }
